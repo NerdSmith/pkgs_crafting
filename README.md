@@ -1,1 +1,1 @@
-Template for pcap projects
+pkgs crafting

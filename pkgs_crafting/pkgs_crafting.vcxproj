@@ -24,6 +24,7 @@
     <ProjectGuid>{4ee8116a-fec3-41d9-aea6-12513a6fc507}</ProjectGuid>
     <RootNamespace>pcaptml</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>pkgs_crafting</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
